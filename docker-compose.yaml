@@ -11,4 +11,4 @@ services:
         source: ${PWD}/
         target: /var/local/app/
     ports:
-      - 8080:8080
+      - 1234:1234
